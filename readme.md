@@ -9,11 +9,11 @@ Dengan mode otomatis berdasarkan waktu:
 
 ![Idle Screen CRT Retro](idle-screen.png)
 
-### Dynamic Reflection & Silent Mode
+### 🔈 Dynamic Reflection & Silent Mode
 - Perubahan warna objek setiap pantulan
 - Silent Mode (tanpa suara) aktif pada **22:00 – 06:00**
 
-### Speed Boost & Dynamic Trail
+### 💨 Speed Boost & Dynamic Trail
 Ekor menyesuaikan kecepatan objek:
 - Kecepatan rendah → trail pendek
 - Kecepatan tinggi → trail panjang
